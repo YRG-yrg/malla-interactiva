@@ -1,0 +1,35 @@
+[
+  {
+    "semestre": 1,
+    "ramos": [
+      {
+        "sigla": "VET101",
+        "nombre": "Estrategias de Aprendizaje",
+        "creditos": 3,
+        "prerrequisitos": [],
+        "url": ""
+      },
+      {
+        "sigla": "VET102",
+        "nombre": "Matemática Básica",
+        "creditos": 4,
+        "prerrequisitos": [],
+        "url": ""
+      },
+      {
+        "sigla": "VET103",
+        "nombre": "Química General",
+        "creditos": 4,
+        "prerrequisitos": [],
+        "url": ""
+      },
+      {
+        "sigla": "VET104",
+        "nombre": "Biología Celular y Molecular",
+        "creditos": 4,
+        "prerrequisitos": [],
+        "url": ""
+      }
+    ]
+  }
+]
